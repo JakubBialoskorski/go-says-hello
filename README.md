@@ -8,7 +8,10 @@ It was developed to quickly check connectivity on AWS / GCP / Azure.
 There are three ways to run this repository:
 
 * non-binary: `go run .` and browse to `<IP>:8080/hello`
-* binary: grab one from the [releases](https://github.com/JakubBialoskorski/go-says-hello/releases) and copy it with `cp go-says-hello-darwin-amd64 /usr/local/bin/go-says-hello && chmod +x /usr/local/bin/go-says-hello` . It can be then accessed system-wide with `go-says-hello` command.
+* binary: 
+  * grab one from the [releases](https://github.com/JakubBialoskorski/go-says-hello/releases)
+  * copy it with `cp go-says-hello-darwin-amd64 /usr/local/bin/go-says-hello && chmod +x /usr/local/bin/go-says-hello`
+  * It can be then accessed system-wide with `go-says-hello` command
 * Docker: `docker run -d -p 8080:8080 jakubbialoskorski/go-says-hello` and browse to `<IP>:8080/hello`
 
 `<IP>` is the public address, assuming you've opened port `8080` for inbound traffic.

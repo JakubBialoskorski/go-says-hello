@@ -16,3 +16,8 @@ OR
 `<IP>` is the public address, assuming you've opened port `8080` for inbound traffic.
 
 Both CAN be opened from localhost, but you'll probably get IPv6 or container's IP.
+
+---
+Development:
+
+To quickly build multiarch binaries, run `chmod +x build-multiarch.sh` and `./build-multiarch.sh`.

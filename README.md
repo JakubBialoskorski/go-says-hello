@@ -20,4 +20,4 @@ Both CAN be opened from localhost, but you'll probably get IPv6 or container's I
 ---
 Development:
 
-To quickly build multiarch binaries, run `chmod +x build-multiarch.sh` and `./build-multiarch.sh`.
+To quickly build multiarch binaries, run `chmod +x build-multiarch.sh` and `./build-multiarch.sh github.com/JakubBialoskorski/go-says-hello`.

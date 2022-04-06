@@ -1,5 +1,7 @@
 # go-says-hello
 
+[![Known Vulnerabilities](https://snyk.io/test/github/JakubBialoskorski/go-says-hello/badge.svg)](https://snyk.io/test/github/JakubBialoskorski/go-says-hello)
+
 IP / endpoint check written in Go. It intercepts the traffic and shows your "external" IP address (public).
 
 It was developed to quickly check connectivity on AWS / GCP / Azure.

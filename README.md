@@ -1,6 +1,11 @@
 # go-says-hello
 
 [![Known Vulnerabilities](https://snyk.io/test/github/JakubBialoskorski/go-says-hello/badge.svg)](https://snyk.io/test/github/JakubBialoskorski/go-says-hello)
+<a href="https://golang.org"><img src="https://img.shields.io/badge/Made%20with-Go-1f425f.svg" alt="made-with-Go"></a>
+[![Go Report Card](https://goreportcard.com/badge/github.com/JakubBialoskorski/go-says-hello)](https://goreportcard.com/report/github.com/JakubBialoskorski/go-says-hello)
+<a href="https://github.com/JakubBialoskorski/go-says-hello"><img src="https://img.shields.io/github/go-mod/go-version/JakubBialoskorski/go-says-hello" alt="Go.mod version"></a>
+<a href="https://github.com/JakubBialoskorski/go-says-hello/blob/master/LICENCE"><img src="https://img.shields.io/github/license/JakubBialoskorski/go-says-hello" alt="LICENCE"></a>
+<a href="https://github.com/JakubBialoskorski/go-says-hello/releases/"><img src="https://img.shields.io/github/release/JakubBialoskorski/go-says-hello.svg" alt="Latest release"></a>
 
 IP / endpoint check written in Go. It intercepts the traffic and shows your "external" IP address (public).
 

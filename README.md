@@ -22,7 +22,7 @@ There are three ways to run this repository:
 
 `<IP>` is the public address, assuming you've opened port `8080` for inbound traffic.
 
-Both CAN be opened from localhost, but you'll probably get IPv6 or container's IP.
+Both CAN be opened from localhost, but you'll probably get IPv6 or container's IP as a result, which breaks the purpose of this repository.
 
 ---
 Development:
